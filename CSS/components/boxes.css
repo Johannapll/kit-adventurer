@@ -1,0 +1,50 @@
+.boxes {
+	flex-wrap: wrap;
+}
+
+.box #box-bob {
+	background-image: url(../../images/background.png);
+	position: sticky
+	margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    align-items: center;
+    padding-top: 30px;
+    background-position: left;
+    margin-left: 300px;
+    margin-right: 20px z-index: 2;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    align-self: center;
+
+
+}
+
+.box #box-sac {
+	background-image: url(../../images/background.png);
+	position: sticky
+	margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    align-items: center;
+    padding-top: 30px;
+    background-position: left;
+    margin-left: 300px;
+    margin-right: 20px z-index: 2;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    align-self: center;
+    display:inline;
+    
+}
+
+
+
+}
+
+h3{
+	margin-bottom: auto;
+}
+h4{
+	text-align: center;
+}
